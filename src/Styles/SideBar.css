@@ -1,0 +1,35 @@
+.sidebar__container {
+  display: flex;
+  width: 120px;
+  flex-direction: column;
+  background: #020203;
+  justify-content: space-around;
+  position: fixed;
+  height: 100%;
+}
+.sidebar__icons {
+  margin-top: 90px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+}
+.sidebar__icon {
+  margin-top: 20px;
+}
+
+.copyrights {
+  background: #020203;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.copyrights__content {
+  transform: rotate(-90deg);
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 24px;
+  white-space: nowrap;
+  color: white;
+}
