@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Sport-Analytics/static/css/main.cf64635d.chunk.css",
-    "main.js": "/Sport-Analytics/static/js/main.7380a5f4.chunk.js",
-    "main.js.map": "/Sport-Analytics/static/js/main.7380a5f4.chunk.js.map",
-    "runtime-main.js": "/Sport-Analytics/static/js/runtime-main.03e9a9f7.js",
-    "runtime-main.js.map": "/Sport-Analytics/static/js/runtime-main.03e9a9f7.js.map",
-    "static/js/2.3f3ead58.chunk.js": "/Sport-Analytics/static/js/2.3f3ead58.chunk.js",
-    "static/js/2.3f3ead58.chunk.js.map": "/Sport-Analytics/static/js/2.3f3ead58.chunk.js.map",
-    "static/js/3.ce0f6388.chunk.js": "/Sport-Analytics/static/js/3.ce0f6388.chunk.js",
-    "static/js/3.ce0f6388.chunk.js.map": "/Sport-Analytics/static/js/3.ce0f6388.chunk.js.map",
+    "main.css": "/Sport-Analytics/static/css/main.fbb03633.chunk.css",
+    "main.js": "/Sport-Analytics/static/js/main.266ddf12.chunk.js",
+    "main.js.map": "/Sport-Analytics/static/js/main.266ddf12.chunk.js.map",
+    "runtime-main.js": "/Sport-Analytics/static/js/runtime-main.39574851.js",
+    "runtime-main.js.map": "/Sport-Analytics/static/js/runtime-main.39574851.js.map",
+    "static/js/2.0ed3e17f.chunk.js": "/Sport-Analytics/static/js/2.0ed3e17f.chunk.js",
+    "static/js/2.0ed3e17f.chunk.js.map": "/Sport-Analytics/static/js/2.0ed3e17f.chunk.js.map",
+    "static/js/3.5e3c9bb3.chunk.js": "/Sport-Analytics/static/js/3.5e3c9bb3.chunk.js",
+    "static/js/3.5e3c9bb3.chunk.js.map": "/Sport-Analytics/static/js/3.5e3c9bb3.chunk.js.map",
     "index.html": "/Sport-Analytics/index.html",
-    "static/css/main.cf64635d.chunk.css.map": "/Sport-Analytics/static/css/main.cf64635d.chunk.css.map",
-    "static/js/2.3f3ead58.chunk.js.LICENSE.txt": "/Sport-Analytics/static/js/2.3f3ead58.chunk.js.LICENSE.txt",
+    "static/css/main.fbb03633.chunk.css.map": "/Sport-Analytics/static/css/main.fbb03633.chunk.css.map",
+    "static/js/2.0ed3e17f.chunk.js.LICENSE.txt": "/Sport-Analytics/static/js/2.0ed3e17f.chunk.js.LICENSE.txt",
     "static/media/logo.96234258.svg": "/Sport-Analytics/static/media/logo.96234258.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.03e9a9f7.js",
-    "static/js/2.3f3ead58.chunk.js",
-    "static/css/main.cf64635d.chunk.css",
-    "static/js/main.7380a5f4.chunk.js"
+    "static/js/runtime-main.39574851.js",
+    "static/js/2.0ed3e17f.chunk.js",
+    "static/css/main.fbb03633.chunk.css",
+    "static/js/main.266ddf12.chunk.js"
   ]
 }
