@@ -1,0 +1,17 @@
+.greeting__text {
+  font-weight: 500;
+}
+
+.greeting__text--name {
+  color: #e60000;
+}
+
+.greeting {
+  margin-left: 160px;
+}
+
+.greeting__status {
+  /* font-size: 18px;
+  line-height: 24px;
+  margin-top: 40px; */
+}
